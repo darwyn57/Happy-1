@@ -1,0 +1,12 @@
+.target-logo{
+    height: 80px;
+}
+li{
+    list-style: none;
+}
+.navbar{
+    background-color: rgb(236, 236, 206);
+}
+.nav-link{
+    font-size: large;
+}
